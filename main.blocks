@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="r!,j~8%G0/,E7aPSa#K}" x="0" y="0"></block><block type="device_forever" id="XvZfHOnXCzY,FDi~DYIe" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="0((@GRey%:qtvBeaZNhm"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="L}uvyy[yg03Y3FVoFKOm"><value name="pause"><shadow type="timePicker" id="*6nMmH6pYro9wO~IX|Ev"><field name="ms">100</field></shadow></value><next><block type="basic_show_icon" id="B@5A:@7H,./3VzHsP%.0"><field name="i">IconNames.StickFigure</field><next><block type="device_pause" id="hpP;_c9/b[_3b2`%L23o"><value name="pause"><shadow type="timePicker" id="QN8X!cY2m56]HO#uzN/#"><field name="ms">100</field></shadow></value><next><block type="basic_show_icon" id=";cO`]EUddZ!xC/;XSaY6"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="plRMim($hC]~%f$P~KeB"><value name="pause"><shadow type="timePicker" id="TmJ|M.2)Q`#I8N6Tv,]^"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
